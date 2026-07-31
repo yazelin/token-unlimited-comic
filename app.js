@@ -1,6 +1,8 @@
 (function(){
 'use strict';
 var KEY="comic-tuc";
+// 話數≠小說章號(第 1 話可能叫「序章」),續讀連結一律用該話的真章名,沒有才退回話數
+var TITLES=["序章:睜開眼睛的地方","第一章:一萬字的火球"];
 function read(){try{return JSON.parse(localStorage.getItem(KEY))||null}catch(e){return null}}
 function write(ep,p){try{localStorage.setItem(KEY,JSON.stringify({ep:ep,p:p,at:Date.now()}))}catch(e){}}
 var reader=document.querySelector('main.reader');
@@ -35,7 +37,7 @@ if(slot){
   if(s2&&s2.ep){
     var a=document.createElement('a');
     a.className='resume';a.href='read/'+s2.ep+'.html';
-    a.textContent='繼續閱讀 › 第 '+s2.ep+' 章・第 '+((s2.p||0)+1)+' 格';
+    a.textContent='繼續閱讀 › '+(TITLES[s2.ep-1]||('第 '+s2.ep+' 話'))+'・第 '+((s2.p||0)+1)+' 格';
     slot.appendChild(a);
   }
 }
