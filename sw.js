@@ -1,5 +1,5 @@
 // 轉生異世界的我 token 無限 — 離線快取(全量 precache + ignoreSearch)
-const CACHE = 'comic-v1';
+const CACHE = 'comic-202607310904';
 const PRECACHE = [
  "./",
  "./index.html",
