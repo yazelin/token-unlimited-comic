@@ -1,15 +1,22 @@
-// 轉生異世界的我 token 無限 — 離線快取(全量 precache + ignoreSearch)
-const CACHE = 'comic-202607311130';
-const PRECACHE = [
+// 轉生異世界的我 token 無限 — 離線快取(SHELL/ASSET 兩層;版本=內容雜湊,自動 bump)
+const SHELL = 'cs-shell-3eavsa';
+const ASSET = 'cs-asset-1a2pevm';
+const SHELL_FILES = [
  "./",
+ "./style.css",
+ "./app.js",
  "./index.html",
- "./reader.css",
- "./reader.js",
- "./data.json",
+ "./read/1.html",
+ "./read/2.html",
+ "./char/eko.html",
+ "./char/luxiu.html",
  "./manifest.json",
- "./sw.js",
+ "./sitemap.xml",
+ "./robots.txt",
  "./icon-192.png",
- "./icon-512.png",
+ "./icon-512.png"
+];
+const ASSET_FILES = [
  "./imgs/ch01-p01.webp",
  "./imgs/ch01-p02.webp",
  "./imgs/ch01-p03.webp",
@@ -113,13 +120,22 @@ const PRECACHE = [
  "./imgs/ch02-p55.webp",
  "./imgs/ch02-p56.webp",
  "./imgs/ch02-p57.webp",
- "./imgs/ch02-p58.webp"
+ "./imgs/ch02-p58.webp",
+ "./imgs/char-eko.webp",
+ "./imgs/char-luxiu.webp",
+ "./imgs/cover.webp"
 ];
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
+  e.waitUntil((async () => {
+    const s = await caches.open(SHELL); await s.addAll(SHELL_FILES);
+    const a = await caches.open(ASSET); await a.addAll(ASSET_FILES);
+    self.skipWaiting();
+  })());
 });
 self.addEventListener('activate', e => {
-  e.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(caches.keys().then(keys => Promise.all(
+    keys.filter(k => k !== SHELL && k !== ASSET).map(k => caches.delete(k))
+  )).then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', e => {
   e.respondWith(caches.match(e.request, { ignoreSearch: true }).then(hit => hit || fetch(e.request)));

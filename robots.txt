@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yazelin.github.io/token-unlimited-comic/sitemap.xml
