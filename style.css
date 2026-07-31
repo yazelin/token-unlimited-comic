@@ -45,6 +45,10 @@ h1, h2 { font-weight: 700; }
 .char-page h1 { font-size: 1.4rem; margin-bottom: .8rem; }
 .card-text { text-align: left; color: var(--dim); font-size: .92rem; white-space: pre-wrap; }
 /* footer */
-.site-foot { text-align: center; color: var(--dim); font-size: .82rem; padding: 2.5rem 1rem 3.5rem; }
-.site-foot a { color: var(--dim); }
-.foot-links { margin: .4rem 0; }
+.site-foot { text-align: center; color: var(--dim); font-size: .82rem; padding: 2.8rem 1rem 3.5rem; border-top: 1px solid var(--line); margin-top: 2.5rem; }
+.site-foot a { color: color-mix(in srgb, var(--ink) 72%, transparent); }
+.foot-novel { margin-bottom: .9rem; font-size: .92rem; }
+.foot-novel a { text-decoration: none; border-bottom: 1px solid var(--line); padding-bottom: .15rem; }
+.foot-icons { display: flex; justify-content: center; gap: 1.15rem; margin: 0 0 .9rem; }
+.foot-icons a { display: inline-flex; opacity: .78; transition: opacity .2s; }
+.foot-icons a:hover { opacity: 1; }
