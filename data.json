@@ -1,0 +1,832 @@
+{
+ "title": "轉生異世界的我 token 無限",
+ "chapters": [
+  {
+   "title": "序章:睜開眼睛的地方",
+   "panels": [
+    {
+     "image": "imgs/ch01-p01.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "首先感受到溫度。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "臉上有一塊地方暖暖的。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p02.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "那塊暖會移動，很慢，像有什麼東西在他上面晃。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p03.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後才是味道。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "微濕的土，這個他認得。至於在哪裡聞過的，他想不起來。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p04.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他習慣的空氣是關起來的。同一批空氣在整層樓裡繞了一整天，悶悶的，什麼味道都不帶，也哪裡都去不了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p05.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他慢慢張開眼。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p06.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他躺著。背後不是硬的，反而有點軟，是草，是土，帶著濕氣。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p07.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後是安靜。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "此刻靜得能聽見自己的心跳。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p08.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他就那樣靜靜地躺著，不想起來。放空了很久。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p09.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我為什麼躺在這裡？"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p10.webp",
+     "bubbles": [
+      {
+       "x": 31,
+       "y": 10,
+       "w": 45,
+       "type": "thought",
+       "speaker": "",
+       "text": "我沒有什麼不舒服的地方。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p11.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "胸口悶了幾年。自從接了那個案子以後就這樣。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "現在不悶了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p12.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "太陽穿過樹葉。風一吹，影子就在臉上來回地移。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p13.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "最後的印象是在公司加班。凌晨兩點，我想趴在桌上瞇一下，等一下再繼續。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "然後⋯⋯然後就到這裡了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p14.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "現在這感覺，又很像在做夢。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p15.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我不知道自己是死了，還是只是在夢裡。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "如果說是「死」，好像也太肯定了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p16.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "專案沒做完。房租繳到下個月。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "冰箱裡有一盒優格，快過期了。"
+      },
+      {
+       "x": 28,
+       "y": 44,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "就這些。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p17.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "如果這裡是天堂，那也還好。至少不用回去上班，不用加班了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p18.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "找手機。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "那些位置上什麼都沒有。連口袋都沒有。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p19.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "這身衣服不是我的。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p20.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他這才用手撐著地，把自己撐起來。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p21.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "坐起來，才看見這個世界的樣子。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p22.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "理論上，這種時候應該要驚慌。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "但那些都沒有發生。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p23.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "反正風很好。陽光也很好。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我好像自由了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p24.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "很陌生。不夠瘦，指節粗，看得出來有力氣。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p25.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我原本那雙手，七年，就磨出這麼一點。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p26.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "這種繭不是我能磨出來的。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p27.webp",
+     "bubbles": [
+      {
+       "x": 22,
+       "y": 13,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "⋯⋯好喔。"
+      },
+      {
+       "x": 82,
+       "y": 56,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "聲音也不是我的。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p28.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "那新的規格在哪？"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "沒有半透明的視窗浮在眼前。沒有技能欄，也沒有數值。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p29.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "風吹過來，葉子動了一下。"
+      },
+      {
+       "x": 81,
+       "y": 27,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "就這樣。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p30.webp",
+     "bubbles": [
+      {
+       "x": 22,
+       "y": 47,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "連說明書都沒有。"
+      },
+      {
+       "x": 33,
+       "y": 8,
+       "w": 50,
+       "type": "thought",
+       "speaker": "",
+       "text": "看來想要一個說法，是不太可能，需要自己編了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p31.webp",
+     "bubbles": [
+      {
+       "x": 21,
+       "y": 8,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我叫什麼？"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p32.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "陸修。這個出來得最快，一點都沒有卡。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p33.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "加班。這個最清楚。凌晨三點，整層樓只剩下我跟三排沒關的螢幕。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "那個月我加了兩百個小時。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p34.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "on-call。手機在凌晨四點響的那個震動頻率，我到現在都認得。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p35.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "七年，還是五年？"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "三年，五年，七年，好像都對，也都不太對。"
+      },
+      {
+       "x": 28,
+       "y": 44,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "明明是我自己的事。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p36.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "一間辦公室。很多人。有人在講電話。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "但我不確定那間辦公室的窗戶是靠哪一邊。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p37.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "腦子裡浮出一個標誌的形狀。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "可是名字居然想不起來。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p38.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "然後我想到母親。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我知道她煮的味噌湯偏鹹，知道她打電話來的第一句永遠是「你有沒有好好吃飯」。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p39.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "可是印象裡的母親始終背對著我。"
+      },
+      {
+       "x": 63,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我把注意力挪過去，繞不到前面。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p40.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他就那樣在森林裡站了很久。久到肩膀開始發酸。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p41.webp",
+     "bubbles": [
+      {
+       "x": 15,
+       "y": 11,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "哈。"
+      },
+      {
+       "x": 83,
+       "y": 48,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "轉生副作用吧。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p42.webp",
+     "bubbles": [
+      {
+       "x": 78,
+       "y": 16,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "先不管它。反正也沒什麼影響。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p43.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "走了幾步，他停下來，回頭看了一眼。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p44.webp",
+     "bubbles": [
+      {
+       "x": 41,
+       "y": 50,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "那裡沒有腳印。沒有拖行的痕跡。"
+      },
+      {
+       "x": 66,
+       "y": 62,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "就好像在這一刻之前，根本沒有我這個人。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch01-p45.webp",
+     "bubbles": [
+      {
+       "x": 52,
+       "y": 55,
+       "w": 60,
+       "type": "thought",
+       "speaker": "",
+       "text": "草是壓平的。形狀剛好是一個人。"
+      }
+     ],
+     "effects": []
+    }
+   ]
+  }
+ ]
+}
