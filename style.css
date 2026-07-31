@@ -44,6 +44,9 @@ h1, h2 { font-weight: 700; }
 .char-page .portrait { width: min(70%, 300px); border-radius: 10px; margin-bottom: 1rem; }
 .char-page h1 { font-size: 1.4rem; margin-bottom: .8rem; }
 .card-text { text-align: left; color: var(--dim); font-size: .92rem; white-space: pre-wrap; }
+.char-page .sheet { margin: 1.8rem 0 0; }
+.char-page .sheet img { width: 100%; border-radius: 10px; display: block; }
+.char-page .sheet figcaption { color: var(--dim); font-size: .82rem; margin-top: .4rem; }
 /* footer */
 .site-foot { text-align: center; color: var(--dim); font-size: .82rem; padding: 2.8rem 1rem 3.5rem; border-top: 1px solid var(--line); margin-top: 2.5rem; }
 .site-foot a { color: color-mix(in srgb, var(--ink) 72%, transparent); }
