@@ -1,7 +1,9 @@
-:root{--bg:#f4f1ea;--ink:#2a2622;--dim:#7a7266;--line:rgba(0,0,0,.08);--acc:#b98d2f;--gap:#e9e4d8}
+:root{--bg:#e8e0d2;--ink:#2b2620;--dim:#7d7263;--line:rgba(0,0,0,.10);--acc:#F6C945;--gap:#d9cfbd;--bub:#fff;--bub-ink:#1c1813;--narr:rgba(43,38,32,.76);--narr-ink:#efe8db;--surf:#efe9de;--acc2:#8a6a3c}
+@font-face { font-family: 'Comic TC'; src: url('fonts/comic-tc.woff2') format('woff2'); font-weight: 100 900; font-display: block; }
 * { margin: 0; box-sizing: border-box; }
-body { background: var(--bg); color: var(--ink); font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.7; }
+body { background: var(--bg); color: var(--ink); font-family: 'Comic TC', "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.7; }
 a { color: var(--ink); }
+a:hover { color: var(--acc2); }
 h1, h2 { font-weight: 700; }
 /* 首頁 */
 .home { max-width: 640px; margin: 0 auto; padding: 4vh 1.2rem 2rem; }
@@ -10,15 +12,17 @@ h1, h2 { font-weight: 700; }
 .hero h1 { font-size: 1.7rem; letter-spacing: .05em; }
 .hook { color: var(--dim); margin: .8rem 0 1.2rem; }
 .newest { color: var(--dim); font-size: .95rem; }
-.resume { display: inline-block; margin-top: .9rem; padding: .55rem 1.1rem; border: 1px solid var(--line); border-radius: 999px; text-decoration: none; font-size: .95rem; }
+.resume { display: inline-block; margin-top: .9rem; padding: .55rem 1.1rem; background: var(--surf); border: 1px solid var(--line); border-radius: 999px; text-decoration: none; font-size: .95rem; }
 .toc-sec h2, .chars h2 { font-size: 1.05rem; color: var(--dim); margin: 1.6rem 0 .6rem; }
 .toc { list-style: none; border-top: 1px solid var(--line); padding: 0; }
 .toc li { border-bottom: 1px solid var(--line); }
+.toc li:hover { background: var(--surf); }
 .toc a { display: flex; gap: 1rem; align-items: baseline; padding: .9rem .2rem; text-decoration: none; }
 .toc .n { color: var(--dim); font-size: .78rem; letter-spacing: .2em; }
 .toc .t { font-size: 1.05rem; }
 .char-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: .9rem; }
-.char-card { text-align: center; text-decoration: none; font-size: .9rem; color: var(--ink); }
+.char-card { text-align: center; text-decoration: none; font-size: .9rem; color: var(--ink); border-radius: 10px; padding: .35rem; }
+.char-card:hover { background: var(--surf); color: var(--acc2); }
 .char-card img { width: 100%; aspect-ratio: 3/4; object-fit: cover; object-position: top; border-radius: 8px; margin-bottom: .35rem; }
 /* 閱讀頁 */
 .reader-top { position: fixed; top: 0; left: 0; right: 0; z-index: 10; display: flex; justify-content: space-between; align-items: center; gap: .8rem; padding: .55rem .9rem; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); transition: transform .25s; font-size: .92rem; }
@@ -29,9 +33,26 @@ h1, h2 { font-weight: 700; }
 .panel { position: relative; margin: 0 0 6px; container-type: inline-size; background: var(--gap); }
 .panel > img { display: block; width: 100%; height: auto; }
 .fx { position: absolute; transform: translate(-50%, -50%); pointer-events: none; }
-.bubble { position: absolute; transform: translate(-50%, -50%); width: max-content; background: #fff; color: #111; padding: .5em .8em; border-radius: 1em; font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; font-size: clamp(13px, 3.4cqw, 22px); line-height: 1.6; letter-spacing: .02em; max-width: 46%; box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.bubble { position: absolute; transform: translate(-50%, -50%); width: max-content; background: var(--bub); color: var(--bub-ink); padding: .5em .8em; border-radius: 1em; font-family: 'Comic TC', "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; font-size: clamp(13px, 3.4cqw, 22px); line-height: 1.6; letter-spacing: .02em; max-width: 46%; box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+/* 對白泡的尾巴——只有對白有;八方向 + t-none 不要。
+   上下左右=border 三角形。斜角改用 clip-path 切直角三角形:轉開三角形會讓底邊離開泡緣、
+   只剩一小截露在外面(看起來像貼邊的扁片),直角三角形的底邊天生貼平,尖角自然指向斜方。 */
+.bubble.speech::after { content: ''; position: absolute; width: 0; height: 0; border: .5em solid transparent; }
+.bubble.speech.t-none::after { content: none; }
+.bubble.speech.t-bottom::after { top: 100%; left: 50%; margin: -1px 0 0 -.5em; border-bottom: 0; border-top-color: var(--bub); }
+.bubble.speech.t-top::after { bottom: 100%; left: 50%; margin: 0 0 -1px -.5em; border-top: 0; border-bottom-color: var(--bub); }
+.bubble.speech.t-left::after { right: 100%; top: 50%; margin: -.5em -1px 0 0; border-left: 0; border-right-color: var(--bub); }
+.bubble.speech.t-right::after { left: 100%; top: 50%; margin: -.5em 0 0 -1px; border-right: 0; border-left-color: var(--bub); }
+.bubble.speech.t-bottom-left::after,
+.bubble.speech.t-bottom-right::after,
+.bubble.speech.t-top-left::after,
+.bubble.speech.t-top-right::after { border: 0; background: var(--bub); width: .95em; height: .95em; }
+.bubble.speech.t-bottom-left::after { top: 100%; left: 20%; margin: -1px 0 0; clip-path: polygon(100% 0, 0 0, 0 100%); }
+.bubble.speech.t-bottom-right::after { top: 100%; right: 20%; margin: -1px 0 0; clip-path: polygon(0 0, 100% 0, 100% 100%); }
+.bubble.speech.t-top-left::after { bottom: 100%; left: 20%; margin: 0 0 -1px; clip-path: polygon(0 0, 100% 100%, 0 100%); }
+.bubble.speech.t-top-right::after { bottom: 100%; right: 20%; margin: 0 0 -1px; clip-path: polygon(100% 0, 100% 100%, 0 100%); }
 .bubble.thought { background: none; box-shadow: none; border: none; color: #1c1a17; font-weight: 500; text-shadow: 0 0 6px #fff, 0 0 3px #fff, 0 0 1px #fff, 0 0 10px rgba(255,255,255,.8); }
-.bubble.narration { background: rgba(16,16,20,.72); color: #f2f0ea; border-radius: 3px; border: none; padding: .55em .9em; font-weight: 400; }
+.bubble.narration { background: var(--narr); color: var(--narr-ink); border-radius: 3px; border: none; padding: .55em .9em; font-weight: 400; }
 .bubble.sfx { background: none; box-shadow: none; color: #111; font-weight: 900; font-size: clamp(22px, 7cqw, 44px); letter-spacing: .06em; transform: translate(-50%,-50%) rotate(-6deg); text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff; }
 .bubble .spk { display: block; font-size: .72em; color: #888; margin-bottom: .15em; }
 .reader-nav { display: flex; justify-content: space-between; padding: 1.4rem .9rem 0; font-size: .98rem; }

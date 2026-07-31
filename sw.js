@@ -1,5 +1,5 @@
 // 轉生異世界的我 token 無限 — 離線快取(SHELL/ASSET 兩層;版本=內容雜湊,自動 bump)
-const SHELL = 'cs-shell-5mbpg4';
+const SHELL = 'cs-shell-pcsn9i';
 const ASSET = 'cs-asset-6981a14de0';
 const SHELL_FILES = [
  "./",
@@ -14,7 +14,8 @@ const SHELL_FILES = [
  "./sitemap.xml",
  "./robots.txt",
  "./icon-192.png",
- "./icon-512.png"
+ "./icon-512.png",
+ "./fonts/comic-tc.woff2"
 ];
 const ASSET_FILES = [
  "./imgs/ch01-p01.webp",
