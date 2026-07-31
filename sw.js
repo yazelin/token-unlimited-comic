@@ -1,5 +1,5 @@
 // 轉生異世界的我 token 無限 — 離線快取(SHELL/ASSET 兩層;版本=內容雜湊,自動 bump)
-const SHELL = 'cs-shell-vytv91';
+const SHELL = 'cs-shell-1pha8qb';
 const ASSET = 'cs-asset-1a2pevm';
 const SHELL_FILES = [
  "./",
