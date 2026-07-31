@@ -827,6 +827,1097 @@
      "effects": []
     }
    ]
+  },
+  {
+   "title": "第一章:一萬字的火球",
+   "panels": [
+    {
+     "image": "imgs/ch02-p01.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "森林比他想的深。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他挑了太陽的方向走，走了大概兩個小時，周圍一直是同一片林子。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p02.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "肚子餓了。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "我算是「轉生」，還是「穿越」？"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p03.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "從他睜開眼睛到現在，他沒有看過任何一個活物。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "安靜到他一度以為自己耳朵出了問題。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p04.webp",
+     "bubbles": [
+      {
+       "x": 21,
+       "y": 11,
+       "w": 25,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後，就像是專門要來反駁他，牠來了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p05.webp",
+     "bubbles": [
+      {
+       "x": 76,
+       "y": 9,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他先聽到的是聲音。不是腳步，是呼吸。"
+      },
+      {
+       "x": 70,
+       "y": 38,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "很重、很近的呼吸，中間夾著一種從喉嚨深處壓出來的低吼。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p06.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他動了。回頭。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p07.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "那是一頭野獸，他認不出是什麼。比他這輩子看過最大的狗還要大。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p08.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他背後是一棵樹。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "他跑不掉。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p09.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "這種時候，主角不是都會突然覺醒什麼力量嗎。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p10.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "沒有。沒有力量覺醒，沒有系統提示。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "這個世界對他求救的反應，跟現實一模一樣：不回應。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p11.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "牠的後腿沉了下去。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他看得懂那個姿勢。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p12.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "你不要過來啊——"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p13.webp",
+     "bubbles": [
+      {
+       "x": 27,
+       "y": 12,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "不要過來不要不要走開不我沒有惹你啊我什麼都沒有做啊我連飯都還沒吃——"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p14.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "牠撲了上來。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p15.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "就在牠離開地面的同一瞬間，他喊出的最後一個字落下去。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後前面那一整塊空間亮了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p16.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "牠在半空中被那道光擋了下來，發出一聲又尖又長的哀嚎。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p17.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "牠的眼神變了。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "那頭野獸怕他。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p18.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "牠往後退，然後轉身，很快地消失在樹之間。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p19.webp",
+     "bubbles": [
+      {
+       "x": 23,
+       "y": 10,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "森林又安靜下來。"
+      },
+      {
+       "x": 27,
+       "y": 36,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他就那樣僵在原地，過了很久才想起來要把手放下。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p20.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 9,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "呆滯許久後，他放下手。他閉上嘴。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p21.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他的喉嚨有點痛。每吞一口口水都在提醒他剛剛發生了什麼。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p22.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "但問題是，他不知道剛剛發生了什麼。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p23.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他做的第一件事不是高興，也不是害怕。是回想。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他是工程師。能重現的才叫成功，不能重現的只是運氣。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p24.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "地上的落葉被撥亂了，那是野獸剛剛落地、翻滾的地方。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p25.webp",
+     "bubbles": [
+      {
+       "x": 76,
+       "y": 44,
+       "w": 60,
+       "type": "thought",
+       "speaker": "",
+       "text": "我剛剛，到底，講了什麼。"
+      },
+      {
+       "x": 26,
+       "y": 24,
+       "w": 35,
+       "type": "narration",
+       "speaker": "",
+       "text": "他記得的不是內容。他記得的是長度。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p26.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "那就先叫魔法吧。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p27.webp",
+     "bubbles": [
+      {
+       "x": 34,
+       "y": 12,
+       "w": 50,
+       "type": "thought",
+       "speaker": "",
+       "text": "會不會，不是我講了什麼。"
+      },
+      {
+       "x": 72,
+       "y": 28,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "是我講了多長。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p28.webp",
+     "bubbles": [
+      {
+       "x": 77,
+       "y": 38,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他找了塊石頭，一屁股坐下來。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p29.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他開始測試。"
+      },
+      {
+       "x": 77,
+       "y": 25,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "假設：跟內容沒有關係，只跟長度有關係。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p30.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 36,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "差旅費請先填單，單子要主管簽，主管簽完送會計，會計那邊每個月十號截止——"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p31.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "講到「三家比價」的時候，他前面的空氣，抖了一下。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p32.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "一小簇跟剛才那道光同一種質地的東西，從地上冒了出來。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "很小。可是它在。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p33.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他盯著那一小簇光看了很久，久到它自己熄掉。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p34.webp",
+     "bubbles": [
+      {
+       "x": 26,
+       "y": 11,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "看吧，我就說吧。"
+      },
+      {
+       "x": 24,
+       "y": 38,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "魔法不看內容。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p35.webp",
+     "bubbles": [
+      {
+       "x": 34,
+       "y": 19,
+       "w": 50,
+       "type": "narration",
+       "speaker": "",
+       "text": "他先固定內容，只改長度。"
+      },
+      {
+       "x": 74,
+       "y": 33,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "這一次冒出來的那簇光，比剛才那根火柴大了一圈。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p36.webp",
+     "bubbles": [
+      {
+       "x": 26,
+       "y": 11,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他縮短。只講前三句。"
+      },
+      {
+       "x": 78,
+       "y": 27,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "這一次，什麼都沒出來。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p37.webp",
+     "bubbles": [
+      {
+       "x": 26,
+       "y": 7,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他再拉長。光又大了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p38.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "要是那頭野獸還躲在附近，看到這一幕，大概會覺得這個人瘋了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p39.webp",
+     "bubbles": [
+      {
+       "x": 25,
+       "y": 11,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "長度是唯一的變數。"
+      },
+      {
+       "x": 22,
+       "y": 48,
+       "w": 35,
+       "type": "narration",
+       "speaker": "",
+       "text": "能擋住他的，從來不是魔法本身，是他這副身體。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p40.webp",
+     "bubbles": [
+      {
+       "x": 26,
+       "y": 10,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "站起來那一下眼前發黑，一陣頭暈。"
+      },
+      {
+       "x": 75,
+       "y": 34,
+       "w": 30,
+       "type": "thought",
+       "speaker": "",
+       "text": "是魔力耗盡了嗎？還是貧血？"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p41.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "空地的盡頭是一整片更密的林子，樹跟樹之間黑黑的。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p42.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "如果魔法真的沒有盡頭⋯⋯"
+      },
+      {
+       "x": 79,
+       "y": 42,
+       "w": 40,
+       "type": "thought",
+       "speaker": "",
+       "text": "那他到底能用說的放出多大的魔法？"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p43.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他吞了一口口水。喉嚨還是痛的。"
+      },
+      {
+       "x": 27,
+       "y": 38,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他站直了身體，面對那片林子，深深吸了一口氣。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p44.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後他開口了。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p45.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "speech",
+       "speaker": "陸修",
+       "text": "差旅費請先填單，單子要主管簽——"
+      },
+      {
+       "x": 27,
+       "y": 53,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他決定講的，還是報帳流程。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p46.webp",
+     "bubbles": [
+      {
+       "x": 25,
+       "y": 13,
+       "w": 30,
+       "type": "narration",
+       "speaker": "",
+       "text": "他前面的空氣開始積東西。"
+      },
+      {
+       "x": 25,
+       "y": 30,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "那些字沒有散掉，一個字接一個字。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p47.webp",
+     "bubbles": [
+      {
+       "x": 74,
+       "y": 77,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他學會了在句子跟句子的縫隙裡偷氣，像游泳一樣。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p48.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "那片林子前面的空氣，開始扭曲。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "好像那裡等一下會有很重的東西落下來，周圍先讓開、騰出了位置。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p49.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他沒有停。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "這一次他要講到底，一個字都不留。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p50.webp",
+     "bubbles": [
+      {
+       "x": 27,
+       "y": 10,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他把報帳流程講完了。整整一遍，一個環節都沒漏。"
+      },
+      {
+       "x": 26,
+       "y": 32,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後那條線繃到底。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p51.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "這一次火沒有從地上長出來。它是直接出現的，一整片。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p52.webp",
+     "bubbles": [
+      {
+       "x": 38,
+       "y": 9,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他全都看到了，可是聲音沒有跟上。"
+      },
+      {
+       "x": 33,
+       "y": 28,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "眼前是一片無聲的燃燒，安靜得不像話。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p53.webp",
+     "bubbles": [
+      {
+       "x": 38,
+       "y": 11,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "有幾片被熱氣掀起來的葉子，掛在半空中。不是慢慢飄，是掛著。"
+      },
+      {
+       "x": 33,
+       "y": 24,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "整個世界，好像為了這件事，停了一下。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p54.webp",
+     "bubbles": [
+      {
+       "x": 23,
+       "y": 12,
+       "w": 30,
+       "type": "narration",
+       "speaker": "",
+       "text": "然後才轟一聲砸過來，補上剛才那段畫面該有的聲音。"
+      }
+     ],
+     "effects": [
+      {
+       "image": "imgs/ch02-p54-fx1.webp",
+       "x": 50,
+       "y": 50,
+       "w": 60,
+       "rot": 0,
+       "op": 100,
+       "blend": "multiply"
+      }
+     ]
+    },
+    {
+     "image": "imgs/ch02-p55.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "他坐下來看它燒。沒有力氣站著了。"
+      },
+      {
+       "x": 28,
+       "y": 22,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "可是心裡是滿足的。"
+      },
+      {
+       "x": 83,
+       "y": 55,
+       "w": 40,
+       "type": "sfx",
+       "speaker": "",
+       "text": "抖",
+       "fs": 5
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p56.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 68,
+       "w": 35,
+       "type": "narration",
+       "speaker": "",
+       "text": "這一次，沒有人來切掉那一塊。"
+      },
+      {
+       "x": 30,
+       "y": 87,
+       "w": 40,
+       "type": "narration",
+       "speaker": "",
+       "text": "這個世界好像願意還他一個公道。"
+      },
+      {
+       "x": 78,
+       "y": 45,
+       "w": 45,
+       "type": "thought",
+       "speaker": "",
+       "text": "付出多少，便會得到多少？"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p57.webp",
+     "bubbles": [
+      {
+       "x": 28,
+       "y": 12,
+       "w": 45,
+       "type": "narration",
+       "speaker": "",
+       "text": "他撐著膝蓋站起來，拍掉褲子上的土，往反方向走。"
+      },
+      {
+       "x": 28,
+       "y": 28,
+       "w": 42,
+       "type": "narration",
+       "speaker": "",
+       "text": "他沒有回頭看那片林子。"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "image": "imgs/ch02-p58.webp",
+     "bubbles": [],
+     "effects": []
+    }
+   ]
   }
  ]
 }
