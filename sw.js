@@ -138,7 +138,9 @@ self.addEventListener('install', e => {
 });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(keys => Promise.all(
-    keys.filter(k => k !== SHELL && k !== ASSET).map(k => caches.delete(k))
+    // 只清自己的 cs-*:CacheStorage 是 per-origin,yazelin.github.io 所有專案共用一份,
+    // 無差別刪會把同 origin 其他站(gewu 33MB、neko…)的離線包整包清掉。
+    keys.filter(k => k.startsWith('cs-') && k !== SHELL && k !== ASSET).map(k => caches.delete(k))
   )).then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', e => {
