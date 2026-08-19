@@ -3,6 +3,7 @@
   "short_name": "轉生異世界的我 token 無限",
   "start_url": "./",
   "scope": "./",
+  "id": "./",
   "display": "standalone",
   "background_color": "#e8e0d2",
   "theme_color": "#e8e0d2",
@@ -23,5 +24,9 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "screenshots": [
+    { "src": "screenshot-mobile.webp", "sizes": "540x919", "type": "image/webp", "form_factor": "narrow", "label": "手機閱讀：封面與章節目錄" },
+    { "src": "screenshot-desktop.webp", "sizes": "1280x800", "type": "image/webp", "form_factor": "wide", "label": "桌機閱讀：封面與章節目錄" }
   ]
 }
