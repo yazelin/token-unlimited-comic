@@ -25,11 +25,11 @@ h1, h2 { font-weight: 700; }
 .char-card:hover { background: var(--surf); color: var(--acc2); }
 .char-card img { width: 100%; aspect-ratio: 3/4; object-fit: cover; object-position: top; border-radius: 8px; margin-bottom: .35rem; }
 /* 閱讀頁 */
-.reader-top { position: fixed; top: 0; left: 0; right: 0; z-index: 10; display: flex; justify-content: space-between; align-items: center; gap: .8rem; padding: .55rem .9rem; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); transition: transform .25s; font-size: .92rem; }
+.reader-top { position: fixed; top: 0; left: 0; right: 0; z-index: 10; display: flex; justify-content: space-between; align-items: center; gap: .8rem; padding: calc(.55rem + env(safe-area-inset-top,0px)) .9rem .55rem; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); transition: transform .25s; font-size: .92rem; }
 .reader-top.hide { transform: translateY(-100%); }
 .reader-top b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .reader-top a { text-decoration: none; color: var(--dim); flex: none; }
-.reader { max-width: 720px; margin: 0 auto; padding: 3rem 0 1rem; }
+.reader { max-width: 720px; margin: 0 auto; padding: calc(3rem + env(safe-area-inset-top,0px)) 0 1rem; }
 .panel { position: relative; margin: 0 0 6px; container-type: inline-size; background: var(--gap); }
 .panel > img { display: block; width: 100%; height: auto; }
 .fx { position: absolute; transform: translate(-50%, -50%); pointer-events: none; }
@@ -61,7 +61,7 @@ h1, h2 { font-weight: 700; }
 .progress i { display: block; height: 100%; width: 0; background: var(--acc); transition: width .2s; }
 .progress span { position: absolute; right: .6rem; bottom: .5rem; font-size: .72rem; color: var(--dim); }
 /* 角色頁 */
-.char-page { max-width: 560px; margin: 0 auto; padding: 3.6rem 1.2rem 2rem; text-align: center; }
+.char-page { max-width: 560px; margin: 0 auto; padding: calc(3.6rem + env(safe-area-inset-top,0px)) 1.2rem 2rem; text-align: center; }
 .char-page .portrait { width: min(70%, 300px); border-radius: 10px; margin-bottom: 1rem; }
 .char-page h1 { font-size: 1.4rem; margin-bottom: .8rem; }
 .card-text { text-align: left; color: var(--dim); font-size: .92rem; white-space: pre-wrap; }
